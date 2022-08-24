@@ -1,1 +1,1 @@
-# Module-4
+I have done a little upgrade, changes, and added a few things from module 3. I've added a table which contains the statistics of each guns and a better looking layout on the index.html and arsenal.html. I added a auto play video with a text in the middle. 
